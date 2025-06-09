@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bihar Engineering University</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+
+<body>
+
+
+
+    <header>
+    
+        <h1>Welcome to Bihar Engineering University</h1>
+    </header>
+
+
+
+    <section>
+        <h2>About Us</h2>
+        <p>Bihar Engineering University is a prestigious 
+            
+            
+            institution located in Bihar, India, 
+            
+            
+            
+            committed to excellence in technical 
+            
+            
+            
+            education and research.</p>
+    </section>
+
+    <section>
+        <h2>Campus Life</h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/NIT_Patna.jpg/800px-NIT_Patna.jpg" alt="Campus Image" width="500">
+        <p>Our campus offers a vibrant student life with various clubs, 
+            
+            events,
+            
+            
+            and modern infrastructure.</p>
+    </section>
+
+    <section>
+        <h2>Useful Links</h2>
+        <ul>
+            <li><a href="https://beu-bih.ac.in/" target="_blank">Official Website</a></li>
+            <li><a href="https://en.wikipedia.org/wiki/Bihar_Engineering_University" target="_blank">Wikipedia Page</a></li>
+        </ul>
+    </section>
+
+    <button onclick="showMessage()">Click Me</button>
+
+    <script src="script.js"></script>
+</body>
+</html>

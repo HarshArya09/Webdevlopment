@@ -1,0 +1,3 @@
+function showMessage() {
+    alert("Welcome to Bihar Engineering University!");
+}
